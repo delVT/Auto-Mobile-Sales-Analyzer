@@ -1,12 +1,4 @@
-'''
-Project 3 - Automobile Sales Analyzer - Fall 2022
-Author: Delani Osunsedo PID: Delani
 
-Describe the program here.
-
-I have neither given or received unauthorized assistance on this assignment.
-Signed:Delani Osunsedo
-'''
 
 
 def get_data(filename, model):
@@ -75,6 +67,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
 
